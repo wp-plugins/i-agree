@@ -1,14 +1,14 @@
 === I-Agree ===
 Contributors: thesturs 
-Tags: i agree, agree, terms,conditions,require, login,log in, admin,login-php,admin-php
+Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login-php,admin-php
 Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: 0.1.0
 License:GPLv2 or later
-Require your users to agree to your notice(terms,conditions) on the login screen 
+Require your users to agree to notice on the login screen 
 == Description ==
 
-Require your users to agree to your notice(terms,conditions) on the login screen. This plugin is in beta. 
+Require your users to agree to your notice(terms or conditions) on the login screen. This plugin is in beta. 
 
 == Installation ==
 
