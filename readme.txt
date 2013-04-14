@@ -12,9 +12,9 @@ Require your users to agree to your notice(terms or conditions) on the login scr
 
 == Screenshots ==
 Login <br>
-<img src="/trunk/iagree.png"> <br>
+<img src="http://s-plugins.wordpress.org/i-agree/assets/iagree.png"> <br>
 Admin<br>
-<img src="/trunk/iagreeadmin.png"> 
+<img src="http://s-plugins.wordpress.org/i-agree/assets/iagreeadmin.png"> 
 
 
 == Installation ==
