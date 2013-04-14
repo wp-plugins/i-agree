@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: I-Agree
-Plugin URI: http://wordpress.org/extend/plugins/
+Plugin URI: http://wordpress.org/extend/plugins/i-agree/
 Description: Force your users to agree to your terms when they login.
 Version: 0.1.0
 Author: Michael Stursberg
