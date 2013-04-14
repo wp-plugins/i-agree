@@ -14,7 +14,7 @@ Require your users to agree to your notice(terms or conditions) on the login scr
 Login <br>
 <img src="/trunk/iagree.png"> <br>
 Admin<br>
-<img src="/trunk/iagreeadmin.png">
+<img src="/trunk/iagreeadmin.png"> 
 
 
 == Installation ==
