@@ -11,10 +11,8 @@ Require your users to agree to terms on the login screen
 Require your users to agree to your notice(terms or conditions) on the login screen. This plugin is in beta. 
 
 == Screenshots ==
-Login <br>
-<img src="http://s-plugins.wordpress.org/i-agree/assets/iagree.png"> <br>
-Admin<br>
-<img src="http://s-plugins.wordpress.org/i-agree/assets/iagreeadmin.png"> 
+1. Login 
+2. Admin 
 
 
 == Installation ==
