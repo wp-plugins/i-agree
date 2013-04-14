@@ -42,9 +42,9 @@ margin-top: 117px;
 			<form name="ia_form" method="post" action="<?php echo str_replace( '%7E', '~', $_SERVER['REQUEST_URI']); ?>">
 				<input type="hidden" name="ia_hidden" value="Y">
 				<?php    echo "<h4>" . __( 'Settings', 'ia_trdom' ) . "</h4>"; ?>
-				<p><?php _e("Failed to agree error message: " ); ?><input type="text" name="ia_fail" value="<?php echo $dbfail; ?>" size="20"></br><?php _e("<span class='mes'>This is the text that shows when the visitor fails to click the check box</span>" ); ?></p>
+				<p><?php _e("Failed to agree error message: " ); ?><input type="text" name="ia_fail" value="<?php echo $dbfail; ?>" size="20"></br><?php _e("<span class='mes'>This is the text that shows when the visitor trys to login and fails to click the check box</span>" ); ?></p>
 			
-				<p><?php _e("Message: " ); ?><textarea  name="ia_termm" cols="80" rows="10" ><?php echo $dbtermm; ?></textarea></br><?php _e("<span class='mes'>This the text that goes right after the checkbox</span>" ); ?></p>
+				<p><?php _e("Message: " ); ?><textarea  name="ia_termm" cols="80" rows="10" ><?php echo $dbtermm; ?></textarea></br><?php _e("<span class='mes'>This is the text that goes right after the checkbox</span>" ); ?></p>
 
 			
 				<p class="submit">
