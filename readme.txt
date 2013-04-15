@@ -1,7 +1,7 @@
 === I-Agree ===
 Contributors: thesturs 
-Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login page,admin page
-Requires at least: 3.5
+Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login page,admin page, MU, Open, policy, privacy, source, use, welcome, agreement, accept,message 
+Requires at least: 3.5 
 Tested up to: 3.5.1
 Stable tag: 0.1.0
 License:GPLv2 or later
