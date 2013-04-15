@@ -1,6 +1,6 @@
 === I-Agree ===
 Contributors: thesturs 
-Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login-php,admin-php
+Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login page,admin page
 Requires at least: 3.5
 Tested up to: 3.5.1
 Stable tag: 0.1.0
