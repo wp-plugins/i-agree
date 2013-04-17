@@ -21,3 +21,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 ==Readme Generator== 
 
 This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins. 
+
+== Changelog ===
+
+= 0.1.1 = Fixed backslash issue 
