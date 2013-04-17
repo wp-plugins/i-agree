@@ -1,11 +1,14 @@
 <?php 
 	    if($_POST['ia_hidden'] == 'Y') {
 			//Form data sent
-			$dbfail = $_POST['ia_fail'];
-			update_option('ia_fail', $dbfail);
-		  
-		  $dbtermm = $_POST['ia_termm'];
-			update_option('ia_termm', $dbtermm);
+			 
+            $dbfail = $_POST['ia_fail'];
+          $dbtermm = stripslashes($dbfail);
+            update_option('ia_fail', $dbfail);
+          
+          $dbtermm = $_POST['ia_termm'];
+         $dbtermm = stripslashes($dbtermm);
+            update_option('ia_termm', $dbtermm);
 	
 			 ?> 
 		

@@ -3,7 +3,7 @@ Contributors: thesturs
 Tags: i agree, agree, terms,conditions,require, terms, login,log in, admin,login page,admin page,policy, privacy, use, welcome, agreement, accept,message,
 Requires at least: 3.5 
 Tested up to: 3.5.1
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License:GPLv2 or later
 Require your users to agree to terms on the login screen 
 == Description ==
