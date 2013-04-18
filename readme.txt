@@ -25,4 +25,5 @@ This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/
 == Changelog ===
 
 
-= 0.1.1 = Fixed the backslash - hyperlink issue.  
+= 0.1.1 = 
+* Fixed the backslash - hyperlink issue.  
