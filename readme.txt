@@ -18,7 +18,7 @@ Require your users to agree to your notice(terms or conditions) on the login scr
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
 
-==Readme Generator== 
+== Readme Generator == 
 
 This Readme file was generated using <a href = 'http://sudarmuthu.com/wordpress/wp-readme'>wp-readme</a>, which generates readme files for WordPress Plugins. 
 
