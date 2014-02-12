@@ -53,7 +53,7 @@ margin-top: 117px;
 				<p class="submit">
 				<input type="submit" name="Submit" value="<?php _e('Update Options', 'ia_trdom' ) ?>" />
 				</p><br>
-				<strong>NOTE:</strong>This plugin has been discontinued it has been replace by an improved version called “Agreeable”. You can download it here: <a href=”http://wordpress.org/plugins/agreeable/”> http://wordpress.org/plugins/agreeable/</a> 
+				<strong>NOTE:</strong>This plugin has been discontinued. It has been replace by an improved version called “Agreeable”. You can download it here: <a href=”http://wordpress.org/plugins/agreeable/”> http://wordpress.org/plugins/agreeable/</a> 
 
 			</form>
 
