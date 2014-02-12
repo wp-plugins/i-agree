@@ -8,7 +8,7 @@ License:GPLv2 or later
 Require your users to agree to terms on the login screen 
 == Description ==
 
-<strong>NOTE:</strong>This plugin is discontinued it has been replace by an improved version called “Agreeable”. You can download it here: <a href=”http://wordpress.org/plugins/agreeable/”> http://wordpress.org/plugins/agreeable/</a> 
+<strong>NOTE:</strong>This plugin has been discontinued it has been replace by an improved version called “Agreeable”. You can download it here: <a href=”http://wordpress.org/plugins/agreeable/”> http://wordpress.org/plugins/agreeable/</a> 
 
 == Installation ==
 
